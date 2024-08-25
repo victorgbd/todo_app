@@ -1,0 +1,13 @@
+{
+  "name": "mdb-standard-app",
+  "version": "7.3.2",
+  "homepage": "https://mdbootstrap.com/docs/standard/",
+  "license": "SEE LICENSE IN <License.txt>",
+  "dependencies": {
+    "typescript": "^5.5.4",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^10.0.0"
+  }
+}
